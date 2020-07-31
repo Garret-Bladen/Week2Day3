@@ -1,7 +1,7 @@
 .background {
     width: 1800px;
     height: 1000px;
-    background: url("/Users/garretbladen/Desktop/Intro_To_Programming/Week2/Week2Day3/Websitespacephoto.jpg") center no-repeat;
+    background: url("Websitespacephoto.jpg") center no-repeat;
     background-color: black;
 }
 .center-text {
